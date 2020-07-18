@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="199f417e-5a85-41fd-9de6-26779b69abf4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eWCW35uT1pyHCsvoixBGOPo6ey" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ly2/myleyou" />
+  </component>
+  <component name="RunManager" selected="JUnit.EsTest.testAggr">
+    <configuration name="EsTest.testAggr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es_domo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.es" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.es.EsTest" />
+      <option name="METHOD_NAME" value="testAggr" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsTest.testCRUD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es_domo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.es" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.es.EsTest" />
+      <option name="METHOD_NAME" value="testCRUD" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsTest.testFind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es_domo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.es" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.es.EsTest" />
+      <option name="METHOD_NAME" value="testFind" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsTest.testFindBy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es_domo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.es" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.es.EsTest" />
+      <option name="METHOD_NAME" value="testFindBy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsTest.testQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es_domo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.es" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.es.EsTest" />
+      <option name="METHOD_NAME" value="testQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EsTest.testAggr" />
+        <item itemvalue="JUnit.EsTest.testQuery" />
+        <item itemvalue="JUnit.EsTest.testCRUD" />
+        <item itemvalue="JUnit.EsTest.testFindBy" />
+        <item itemvalue="JUnit.EsTest.testFind" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="199f417e-5a85-41fd-9de6-26779b69abf4" name="Default Changelist" comment="" />
+      <created>1594427989219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594427989219</updated>
+      <workItem from="1594427993597" duration="4379000" />
+      <workItem from="1594432408933" duration="9097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="116" key="FileChooserDialogImpl" timestamp="1594451753291">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="452" y="116" key="FileChooserDialogImpl/62.0.1218.720@62.0.1218.720" timestamp="1594451753291" />
+    <state width="1175" height="149" key="GridCell.Tab.0.bottom" timestamp="1594451754468">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="149" key="GridCell.Tab.0.bottom/62.0.1218.720@62.0.1218.720" timestamp="1594451754468" />
+    <state width="1175" height="149" key="GridCell.Tab.0.center" timestamp="1594451754468">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="149" key="GridCell.Tab.0.center/62.0.1218.720@62.0.1218.720" timestamp="1594451754468" />
+    <state width="1175" height="149" key="GridCell.Tab.0.left" timestamp="1594451754468">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="149" key="GridCell.Tab.0.left/62.0.1218.720@62.0.1218.720" timestamp="1594451754468" />
+    <state width="1175" height="149" key="GridCell.Tab.0.right" timestamp="1594451754468">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="1175" height="149" key="GridCell.Tab.0.right/62.0.1218.720@62.0.1218.720" timestamp="1594451754468" />
+    <state x="470" y="138" key="chooseDestDirectoryDialog" timestamp="1594430907875">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="470" y="138" key="chooseDestDirectoryDialog/62.0.1218.720@62.0.1218.720" timestamp="1594430907875" />
+    <state x="356" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1594432409642">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="356" y="185" key="com.intellij.ide.util.TipDialog/62.0.1218.720@62.0.1218.720" timestamp="1594432409642" />
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1594431441160">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup/62.0.1218.720@62.0.1218.720" timestamp="1594431441160" />
+  </component>
+</project>
